@@ -69,9 +69,4 @@ To install them all:
 
 `pip install -r requirements.txt`
 
-📸 Project Preview
-------------------
-
-![1](https://github.com/user-attachments/assets/474fc826-8ed6-45ae-b9e9-da5a7a374758)
-![2](https://github.com/user-attachments/assets/202c0bb1-c381-4226-8772-243c79369bd4)
 
