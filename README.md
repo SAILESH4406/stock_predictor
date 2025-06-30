@@ -22,9 +22,6 @@ Features
 *   Clean and beginner-friendly project structure
     
 
-* * *
-
-
 
 * * *
 
