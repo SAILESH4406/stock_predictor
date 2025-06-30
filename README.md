@@ -24,29 +24,7 @@ Features
 
 * * *
 
-How to Run This Project
------------------------
 
-**1\. Clone the repository**
-
-`git clone https://github.com/SAILESH4406/stock_predictor.git
-cd stock_predictor` 
-
-**2\. Create and activate virtual environment**
-
-`python -m venv venv
-venv\Scripts\activate        # on Windows
-
-# OR on Mac/Linux
-source venv/bin/activate` 
-
-**3\. Install all dependencies**
-
-`pip install -r requirements.txt` 
-
-**4\. Run the app**
-
-`streamlit run app.py` 
 
 * * *
 
